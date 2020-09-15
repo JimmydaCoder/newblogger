@@ -101,10 +101,6 @@ GEM
     nio4r (2.5.3)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-<<<<<<< HEAD
-    pg (1.2.3)
-=======
->>>>>>> cd977b5... first blogger commit
     public_suffix (4.0.6)
     puma (4.3.6)
       nio4r (~> 2.0)
